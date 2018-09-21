@@ -1,6 +1,6 @@
 package com.example.exception;
 
-import com.example.entity.ErrorInfo;
+import com.example.domain.ErrorInfo;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseBody;

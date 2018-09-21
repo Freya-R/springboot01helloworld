@@ -1,5 +1,5 @@
 package com.example.web;
-import com.example.entity.User;
+import com.example.domain.User;
 import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
